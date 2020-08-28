@@ -1,0 +1,120 @@
+{
+  "categorias": [
+    
+    {
+      "titulo": "The Office",
+      "cor": "#ff0000",
+      "link_extra": {
+      },
+      "videos": [
+        {
+          "titulo": "Dwight's Disguises (Episode Highlight)",
+          "url": "https://www.youtube.com/watch?v=RRZR4aO0OdY&t=5s"
+        },
+        {
+          "titulo": "Fire Drill - O Escritório dos EUA",
+          "url": "https://www.youtube.com/watch?v=gO8N3L_aERg&t=5s"
+        },
+        {
+          "titulo": "The Office - Dwight Defines a Hero",
+          "url": "https://www.youtube.com/watch?v=i3nlTVstZQQ"
+        },
+        {
+          "titulo": "Best Intro Ever - The Office US",
+          "url": "https://www.youtube.com/watch?v=mfokPqeSNcw&t=41s"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Lógica Matemática",
+      "cor": "#008000",
+      "link_extra": {
+        },
+      "videos": [
+        {
+          "titulo": "O que é Lógica Matemática?",
+          "url": "https://www.youtube.com/watch?v=tiARjzPh2pI&t=1s"
+        },
+        {
+          "titulo": "Definição",
+          "url": "https://www.youtube.com/watch?v=18iD4hgRh-U&t=3s"
+        },
+        {
+          "titulo": "Praticando Definição",
+          "url": "https://www.youtube.com/watch?v=gvrI2BIiTvg"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Lógica de Programação",
+      "cor": "#043f5f",
+      "link_extra": {
+      
+      },
+      "videos": [
+        {
+          "titulo": "Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=1"
+        },
+        {
+          "titulo": "Primeiro Algoritmo - Curso de Algoritmos #02 - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=M2Af7gkbbro&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=2"
+        },
+        {
+          "titulo": "Comando de Entrada e Operadores - Curso de Algoritmos #03 - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=RDrfZ-7WE8c&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=3"
+        },
+        {
+          "titulo": "Operadores Lógicos e Relacionais - Curso de Algoritmos #04 - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=Ig4QZNpVZYs&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "Front-end",
+      "cor": "#3a316f",
+      "link_extra": {
+      },
+      "videos": [
+        {
+          "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHsIIjPB6DUJzYCgmrqJizURxuGyD_Ub9"
+        },
+        {
+          "titulo": "Curso de HTML5 - 07 - Formatação de Texto com HTML5 e CSS3 - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=oQExPqFT7ec&list=PLHsIIjPB6DUJzYCgmrqJizURxuGyD_Ub9&index=8"
+        },
+        {
+          "titulo": "Curso de HTML5 - 22 - Introdução ao JavaScript",
+          "url": "https://www.youtube.com/watch?v=jXPU0uAzmYY&list=PLHsIIjPB6DUJzYCgmrqJizURxuGyD_Ub9&index=23"
+        }
+      ]
+    },
+    {
+      "titulo": "Back-end",
+      "cor": "#cca000",
+      "videos": [
+        {
+          "titulo": "TWP000 Introdução ao Python para Zumbis == INICIANTES",
+          "url": "https://www.youtube.com/watch?v=YO58tXerKDc&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc"
+        },
+        {
+          "titulo": "TWP010 instalação do Python",
+          "url": "https://www.youtube.com/watch?v=HMeshqR0QEY&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc&index=2"
+        },
+        {
+          "titulo": "TWP030 Declarando nossas primeiras variáveis",
+          "url": "https://www.youtube.com/watch?v=qHx8SRYqW2E&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc&index=4"
+        },
+        {
+          "titulo": "TWP040 Operadores Relacionais e lógicos",
+          "url": "https://www.youtube.com/watch?v=pDi5VtF9TfA&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc&index=5"
+        }
+      ]
+    }
+    
+    
+  ]
+}
